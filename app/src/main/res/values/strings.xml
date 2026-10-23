@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Time Wise</string>
+    <string name="timewise_accessibility_service">Time Wise Accessibility Service</string>
+</resources>

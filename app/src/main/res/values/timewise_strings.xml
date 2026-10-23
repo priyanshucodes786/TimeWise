@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="timewise_accessibility_description">Detects when selected apps are opened so Time Wise can show a break reminder after a daily limit is reached.</string>
+</resources>

@@ -1,0 +1,49 @@
+
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="48dp"
+    android:height="48dp"
+    android:viewportWidth="48"
+    android:viewportHeight="48">
+
+    <!-- Rounded hourglass frame -->
+    <path
+        android:fillColor="#5753AE"
+        android:pathData="M10,5 L38,5 L38,9
+            C38,15 32,19 27,23
+            C32,27 38,31 38,39
+            L38,43 L10,43 L10,39
+            C10,31 16,27 21,23
+            C16,19 10,15 10,9 Z" />
+
+    <!-- Upper sand chamber -->
+    <path
+        android:fillColor="#B9A7FF"
+        android:pathData="M14,9 L34,9
+            L34,11
+            C34,15 29,18 24,21
+            C19,18 14,15 14,11 Z" />
+
+    <!-- Falling sand -->
+    <path
+        android:fillColor="#8A7BEA"
+        android:pathData="M23,23 L25,23 L25,27 L23,27 Z" />
+
+    <path
+        android:fillColor="#8A7BEA"
+        android:pathData="M23.5,29 A0.5,0.5 0,1 0,24.5 29
+            A0.5,0.5 0,1 0,23.5 29" />
+
+    <!-- Lower sand chamber -->
+    <path
+        android:fillColor="#C7B9FF"
+        android:pathData="M24,30
+            C28,33 32,35 34,39
+            L14,39
+            C16,35 20,33 24,30 Z" />
+
+    <!-- Top and bottom caps -->
+    <path
+        android:fillColor="#393578"
+        android:pathData="M9,4 L39,4 L39,7 L9,7 Z
+            M9,41 L39,41 L39,44 L9,44 Z" />
+</vector>
