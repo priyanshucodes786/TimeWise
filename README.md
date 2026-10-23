@@ -125,4 +125,16 @@ TimeWise is an ongoing Android development project. Features and implementation 
 
 ---
 
+## Copyright
+
+Copyright © 2026 Priyanshu Kashyap. All rights reserved.
+
+The TimeWise source code, original design assets, documentation, and other original materials in this repository are protected by applicable copyright laws.
+
+Unless expressly authorized by the copyright holder or permitted by applicable law, no permission is granted to reproduce, redistribute, modify, or commercially exploit these materials.
+
+The general concept of mindful screen-time management is not claimed as exclusive property by this notice.
+
+---
+
 *Build mindful digital habits, one notification at a time.*
